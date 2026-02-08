@@ -7,8 +7,8 @@ const App = () => {
   return (
     <main>
       <Navbar />
-      <Sidebar />
       <Hero />
+      <Sidebar />
       <Submenu />
     </main>
   );
